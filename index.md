@@ -74,7 +74,7 @@
     <!-- Et voici notre pied de page utilisé sur toutes les pages du site -->
     <footer>
       <p>©Copyright 2050 par personne. Tous droits reversés.</p>
-      <p> Ca à l'air de marcher </p>
+      <p> Ca à l'air de marcher peut etre</p>
       
     </footer>
 
